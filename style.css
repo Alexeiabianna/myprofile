@@ -115,6 +115,13 @@ div.links img {
     padding: 25px;
 }
 
+.article h2 {
+    font: 700 24pt helvetica;
+    color: rgb(88, 88, 88);
+    text-align: center;
+    padding: 25px;
+}
+
 .article iframe {
     display: flex;
     margin: auto;
